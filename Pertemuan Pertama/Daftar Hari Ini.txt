@@ -29,3 +29,20 @@ Fungsi Modifier List
 7. Melt : Digunakan Untuk Menggembegkan Sebuah Objek
 8. FFD 3X3 : Digunakan Untuk Membuat Lekukan Pada Objek
 
+23 Januari 2021
+
+Ukuran
+Tube
+1. Sides : 70
+Box
+1. Lenght Segs : 7
+2. Width Segs : 2
+3. Height Segs : 1
+
+Buat Array
+1. Buat Tube
+2. Buat Box Tambah FFD 3X3
+3. Atur Hirarki di Tengah
+4. Masuk ke Tools dan Pilih Array Serta Pindahkan Rotate dan Ubah Z Menjadi 360 Terus Sesuaikan Countnya
+
+

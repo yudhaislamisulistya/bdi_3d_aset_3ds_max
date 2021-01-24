@@ -45,4 +45,13 @@ Buat Array
 3. Atur Hirarki di Tengah
 4. Masuk ke Tools dan Pilih Array Serta Pindahkan Rotate dan Ubah Z Menjadi 360 Terus Sesuaikan Countnya
 
+Parameter Mouse
+- Panjang : 60
+- Lebar : 80
+- Tinggi : 10
+
+- Panjang Segment : 6
+- Lebar Segmen : 10
+- Tinggi Segmen : 1
+
 
